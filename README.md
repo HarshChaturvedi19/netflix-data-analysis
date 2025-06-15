@@ -1,1 +1,1 @@
-# netflix-data-analysis-with-sql
+# netflix-data-analysis
